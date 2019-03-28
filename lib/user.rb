@@ -9,7 +9,7 @@ class User
     @knowledge << knowledge
   end
   
-  def knowledge(knowledge)
+  def knowledge
     self.knowledge
     
   end
