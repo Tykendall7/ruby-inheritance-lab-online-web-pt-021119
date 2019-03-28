@@ -11,6 +11,7 @@ class User
   
   def knowledge(knowledge)
     self.knowledge
+    
   end
     
 end
